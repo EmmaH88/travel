@@ -76,6 +76,14 @@ body {
   text-decoration: none;
 }
 
+.navigation-btn a {
+  display: block;
+  justify-content: center;
+  margin: 40px;
+
+  color: white;
+}
+
 a:hover {
   text-decoration: underline;
 }
