@@ -258,7 +258,7 @@ small a {
   color: azure;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 960px) {
   header {
     padding: 60px 0;
   }
